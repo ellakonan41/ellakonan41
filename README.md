@@ -70,5 +70,5 @@ Complete machine learning workflow combining forecasting, multimodal classificat
 
 ## 📫 Contact me
 
-- [LinkedIn]:(https://www.linkedin.com/in/ella-ange-konan-556412213/)
+- LinkedIn:[profil](https://www.linkedin.com/in/ella-ange-konan-556412213/)
 - Email: ange.konanella@gmail.com
