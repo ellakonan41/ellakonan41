@@ -15,12 +15,6 @@ With experience in data projects, I combine data engineering, machine learning, 
 - SQL
 - Pandas, NumPy
 
-### Data Engineering
-- Data Pipelines & ETL
-- Data Modeling
-- Databases (SQL, NoSQL)
-- Apache Spark
-
 ### Machine Learning & AI
 - Scikit-learn
 - TensorFlow / PyTorch
@@ -32,8 +26,13 @@ With experience in data projects, I combine data engineering, machine learning, 
 - Looker Studio
 - Matplotlib
 
+ ### Automation
+- Data Pipelines & ETL
+- Agents AI, LLM
+- n8n
+
 ### Tools & Cloud
-- Git & GitHub
+- Git & Github
 - Docker
 - Google Cloud Platform (BigQuery)
 
@@ -50,7 +49,7 @@ AI assistant allowing users to query PDF documents using natural language and re
 
 **Technologies:** Python | LLM | RAG | NLP | Vector Database
 
-🔗 [View project](ellakonan41/askmydoc-rag)
+🔗 [View project](https://github.com/ellakonan41/askmydoc-rag)
 
 ### 🔹 End-to-End Machine Learning & MLOps Platform
 Complete machine learning workflow combining forecasting, multimodal classification, explainability, and deployment.
@@ -71,5 +70,5 @@ Complete machine learning workflow combining forecasting, multimodal classificat
 
 ## 📫 Contact me
 
-- LinkedIn: [Ton profil LinkedIn](https://www.linkedin.com/in/ella-ange-konan-556412213/)
+- [LinkedIn]:(https://www.linkedin.com/in/ella-ange-konan-556412213/)
 - Email: ange.konanella@gmail.com
