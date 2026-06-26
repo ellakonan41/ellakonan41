@@ -1,6 +1,6 @@
 # Hi, I'm Ella Konan 👋
 
-## Data & AI Engineer 
+## Data & AI Engineer | Data Scientist
 
 I design and implement end-to-end data solutions, from understanding business needs to building reliable data pipelines, analytical models, and AI applications.
 
